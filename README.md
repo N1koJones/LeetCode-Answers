@@ -12,4 +12,4 @@ The format of the folder will be the following:
 
 See the following folder for more information on formatting of my solutions
 
-0000. Formatting
+```0000. Formatting```
