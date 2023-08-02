@@ -9,13 +9,7 @@ The format of the folder will be the following:
 
 - Solution.code - This will be the solution to the problem in a given langauge
 
-The ReadMe will look like the following:
 
-###. Problem Name - Difficulty
-Link
+See the following folder for more information on formatting of my solutions
 
-Solve Date: YYYY/MM/DD
-
-Runtime: #ms - XX.YY%
-
-Memory: ##.##MB - XX.YY%
+0000. Formatting
